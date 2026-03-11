@@ -40,7 +40,7 @@ python -m venv .venv
 BOT_TOKEN=your_telegram_bot_token (Создать бота и взять токен с https://t.me/botfather)
 
 
-GITHUB_TOKEN=your_github_token (Github токе для ai модели брать от сюда: https://github.com/settings/personal-access-tokens/)
+GITHUB_TOKEN=your_github_token (Github токен для ai модели брать от сюда: https://github.com/settings/personal-access-tokens/)
 
 
 
