@@ -36,7 +36,5 @@ python -m venv .venv
 .venv\Scripts\activate
 
 3. Создать файл .env в корне проекта
-BOT_TOKEN=your_telegram_bot_token
-GITHUB_TOKEN=your_github_token
-
-Github токе для ai модели брать от сюда: https://github.com/settings/personal-access-tokens/
+BOT_TOKEN=your_telegram_bot_token (Создать бота и взять токен с https://t.me/botfather)
+GITHUB_TOKEN=your_github_token (Github токе для ai модели брать от сюда: https://github.com/settings/personal-access-tokens/)
